@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories.
+*.log
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.cache
+*.csproj.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.idb
+*.class
+*.pyc
+*.dir
+*.ipch
+*.gch
+.vs/
