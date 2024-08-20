@@ -27,3 +27,4 @@ C:\git\Rocketseat.Fundamentals-C-\obj\Debug\net8.0\refint\Rocketseat.Fundamental
 C:\git\Rocketseat.Fundamentals-C-\obj\Debug\net8.0\Rocketseat.Fundamentals-C#.pdb
 C:\git\Rocketseat.Fundamentals-C-\obj\Debug\net8.0\Rocketseat.Fundamentals-C#.genruntimeconfig.cache
 C:\git\Rocketseat.Fundamentals-C-\obj\Debug\net8.0\ref\Rocketseat.Fundamentals-C#.dll
+C:\git\Rocketseat.Fundamentals-C#\obj\Debug\net8.0\Rocketseat.Fundamentals-C#.sourcelink.json
