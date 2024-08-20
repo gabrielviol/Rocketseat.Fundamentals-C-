@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rocketseat.Fundamentals-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182151ebdac2efd824de4249f05e4141745b64c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+215e2f28327f38ba3d322b8bfb3fbbd084ce76d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rocketseat.Fundamentals-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rocketseat.Fundamentals-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
